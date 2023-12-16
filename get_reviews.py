@@ -1,4 +1,3 @@
-#note: it stops after the second page for some reason. still trying to figure out next_page_sel
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
