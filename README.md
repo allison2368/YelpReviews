@@ -1,4 +1,4 @@
-# YelpReviews
+# Yelp and TripAdvisor Reviews
 
 The primary objective of our project is to conduct a comprehensive analysis of Yelp and TripAdvisor’s dataset, focusing on the comparison of reviews from the top 20 recommended restaurants for Northern California and Southern California. We have two main questions to answer with this web scraping project:
 
