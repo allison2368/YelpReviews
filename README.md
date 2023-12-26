@@ -1,6 +1,6 @@
 # Yelp and TripAdvisor Reviews
-
-# The .py files were used to scrape the TripAdvisor reviews, and the .ipynb was used to scrape the Yelp reviews. All of the files that were used to combine the data were placed in the processing folder. All of the .html files are the reviews that we scraped. The images folder has all of the figures we used in our project writeup. 
+# Published Site: https://allison2368.github.io/Restaurant_Review_Analysis/
+## The .py files were used to scrape the TripAdvisor reviews, and the .ipynb was used to scrape the Yelp reviews. All of the files that were used to combine the data were placed in the processing folder. All of the .html files are the reviews that we scraped. The images folder has all of the figures we used in our project writeup. 
 
 The primary objective of our project is to conduct a comprehensive analysis of Yelp and TripAdvisor’s dataset, focusing on the comparison of reviews from the top 20 recommended restaurants for Northern California and Southern California. We have two main questions to answer with this web scraping project:
 
